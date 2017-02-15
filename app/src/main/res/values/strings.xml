@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LockResources</string>
+    <string name="action_settings">Settings</string>
+    <string name="admin_receiver_status">sta</string>
+    <string name="admin_receiver_status_enabled">ena</string>
+    <string name="admin_receiver_status_disable_warning">disawar</string>
+    <string name="admin_receiver_status_disabled">disa sta</string>
+    <string name="admin_receiver_status_pw_changed">pw chan</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="device_admin">Truiton Device Admin</string>
+    <string name="device_admin_description">Truiton\'s device admin implementation which shows the usage of DevicePolicyManager class.  This implementation provides you a way to control a device\'s security.</string>
+    <string name="admin_explanation">Truiton Device Admin helps the user to get special privileges, for eg. to access the Truiton network data. These privileges can only be acquired by accepting these policies.</string>
+
+</resources>
